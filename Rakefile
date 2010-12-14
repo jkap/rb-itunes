@@ -15,8 +15,8 @@ Jeweler::Tasks.new do |gem|
 	gem.name = "rb-itunes"
 	gem.homepage = "http://github.com/jkap/rb-itunes"
 	gem.license = "MIT"
-	gem.summary = %Q{TODO: one-line summary of your gem}
-	gem.description = %Q{TODO: longer description of your gem}
+	gem.summary = "Ruby wrappers for iTunes on OS X"
+	gem.description = "Write this later"
 	gem.email = "jbklego@gmail.com"
 	gem.authors = ["jkap"]
 	gem.add_dependency 'pbosetti-rubyosa'

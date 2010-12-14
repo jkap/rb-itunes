@@ -13,3 +13,4 @@ group :development do
 end
 
 gem 'pbosetti-rubyosa'
+gem 'git'

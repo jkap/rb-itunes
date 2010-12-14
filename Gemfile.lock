@@ -18,6 +18,7 @@ PLATFORMS
 
 DEPENDENCIES
   bundler (~> 1.0.0)
+  git
   jeweler (~> 1.5.1)
   pbosetti-rubyosa
   rcov
